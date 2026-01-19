@@ -8,13 +8,13 @@ Downloads
 ---------
 
 [1] Desktop Edition (Gr3yOS)
-    curl -O https://USERNAME.github.io/gr3yos-site/releases/gr3yos-latest.iso
+    curl -O https://USERNAME.github.io/gr3yos-site/gr3yos-latest.iso
 
 [2] Server Edition (Gr3yscale)
-    curl -O https://USERNAME.github.io/gr3yos-site/releases/gr3yscale-latest.iso
+    curl -O https://USERNAME.github.io/gr3yos-site/gr3yscale-latest.iso
 
 [3] Optional Testing Tools
-    curl -O https://USERNAME.github.io/gr3yos-site/tools/gr3y-testkit.tar.gz
+    curl -O https://USERNAME.github.io/gr3yos-site/gr3y-testkit
 
 Checksums
 ----------

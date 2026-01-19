@@ -1,0 +1,37 @@
+Gr3yOS
+======
+
+Minimal, modular Linux-based operating system.
+Designed to be tiny, stable, and user-hosted.
+
+Downloads
+---------
+
+[1] Desktop Edition (Gr3yOS)
+    curl -O https://USERNAME.github.io/gr3yos-site/releases/gr3yos-latest.iso
+
+[2] Server Edition (Gr3yscale)
+    curl -O https://USERNAME.github.io/gr3yos-site/releases/gr3yscale-latest.iso
+
+[3] Optional Testing Tools
+    curl -O https://USERNAME.github.io/gr3yos-site/tools/gr3y-testkit.tar.gz
+
+Checksums
+----------
+Verify downloads with:
+
+curl -O https://USERNAME.github.io/gr3yos-site/releases/SHA256SUMS
+sha256sum -c SHA256SUMS
+
+Notes
+-----
+- Minimal, CLI-first OS
+- No automatic updates
+- Modular by design
+- Experimental builds may have bugs
+- Recommended for users familiar with Linux
+
+CLI Users
+---------
+Use 'curl' or 'wget' to download files.
+No browser required.

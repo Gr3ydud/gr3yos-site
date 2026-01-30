@@ -8,13 +8,13 @@ Downloads
 ---------
 
 [1] Desktop Edition (Gr3yOS)
-    curl -O https://USERNAME.github.io/gr3yos-site/gr3yos-latest.iso
+    curl -O https://Gr3ydud.github.io/gr3yos-site/gr3yos-latest.iso STATUS: unreleased and bugtesting
 
 [2] Server Edition (Gr3yscale)
-    curl -O https://USERNAME.github.io/gr3yos-site/gr3yscale-latest.iso
+    curl -O https://Gr3ydud.github.io/gr3yos-site/gr3yscale-latest.iso STATUS: unreleased
 
 [3] Optional Testing Tools
-    curl -O https://USERNAME.github.io/gr3yos-site/gr3y-testkit
+    curl -O https://Gr3ydud.github.io/gr3yos-site/gr3y-testkit STATUS: WORKING ON IT
 
 Checksums
 ----------
@@ -27,7 +27,7 @@ Notes
 -----
 - Minimal, CLI-first OS
 - No automatic updates
-- Modular by design
+- Modular
 - Experimental builds may have bugs
 - Recommended for users familiar with Linux
 

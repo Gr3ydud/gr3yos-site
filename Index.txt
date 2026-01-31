@@ -20,7 +20,7 @@ Checksums
 ----------
 Verify downloads with:
 
-curl -O https://USERNAME.github.io/gr3yos-site/releases/SHA256SUMS
+curl -O https://Gr3ydud.github.io/gr3yos-site/releases/SHA256SUMS
 sha256sum -c SHA256SUMS
 
 Notes

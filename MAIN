@@ -1,4 +1,4 @@
-GR3YOS
+GR3YOS 0.01 BETA
 [FILES]
 [TERMINAL]
 [GR3YCTL]
@@ -22,4 +22,4 @@ GR3YOS
 
                
 -----------------------------------------------------------------------------------------
-[POWER OPTIONS][VERSION][DD/HH/MM/SS]
+[POWER OPTIONS][][MM/DD/HH/MM]

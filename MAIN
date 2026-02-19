@@ -1,7 +1,8 @@
-GR3YOS MAIN MENU
+GR3YOS
 [FILES]
 [TERMINAL]
 [GR3YCTL]
+[SETTINGS]
 
 
 
@@ -19,7 +20,6 @@ GR3YOS MAIN MENU
 
 
 
-
-
-
-[POWER OPTIONS]
+               
+-----------------------------------------------------------------------------------------
+[POWER OPTIONS][VERSION][DD/HH/MM/SS]
